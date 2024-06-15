@@ -19,6 +19,23 @@ ticeval2000.csv: Unseen data with features but no target variable.
 
 tictgts2000.csv: Target variable data for evaluating model performance on unseen data.
 
+
+Model Building:
+Split the data into training and testing sets.(20 % test)
+•	Trained several predictive models using different machine learning algorithms:
+o	Logistic Regression
+o	Decision Trees
+o	Random Forest
+o	Support Vector Machines (SVM)
+o	Gradient Boosting
+
+
+https://github.com/ageerHarikrishna/Data-Mining-Project/blob/main/Screenshot%202024-06-16%20005058.png
+
+To strike a balance, I consider the F1 score, which harmonizes precision and recall, especially because my classes are imbalanced. I also conduct a cost-benefit analysis to weigh the financial impact of false positives and negatives.
+
+
+
 Evaluation Metric :
 
 A high recall rate means that the model is good at identifying actual buyers (minimizing the number of false negatives), which is crucial if the cost of missing a potential buyer is high. So we are choosing recall as important parameter.
