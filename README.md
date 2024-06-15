@@ -30,7 +30,8 @@ o	Support Vector Machines (SVM)
 o	Gradient Boosting
 
 
-https://github.com/ageerHarikrishna/Data-Mining-Project/blob/main/Screenshot%202024-06-16%20005058.png
+![image](https://github.com/ageerHarikrishna/Data-Mining-Project/blob/main/Screenshot%202024-06-16%20005058.png)
+
 
 To strike a balance, I consider the F1 score, which harmonizes precision and recall, especially because my classes are imbalanced. I also conduct a cost-benefit analysis to weigh the financial impact of false positives and negatives.
 
